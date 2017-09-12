@@ -1,2 +1,25 @@
 # New-NPM-Packages-Practice
-Looking up new NPM packages and testing them out
+Testing out npm packages Im gonna use at work
+
+* balances-math
+* brace-expansion 
+* concat-map
+* csv
+* csv-generate
+* csv-parse
+* csv-stringify
+* fs.realpath
+* glob
+* inflight
+* inherits
+* interpret
+* lodash.get
+* minimatch
+* once
+* path-is-absolute
+* path-parse
+* rechoir
+* resolve
+* shelljs
+* stream-transform
+* wrappy
