@@ -1,0 +1,42 @@
+{
+  "name": "new-npm-packages-practice",
+  "version": "1.0.0",
+  "description": "Testing out npm packages Im gonna use at work",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shivjisakina/New-NPM-Packages-Practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shivjisakina/New-NPM-Packages-Practice/issues"
+  },
+  "homepage": "https://github.com/shivjisakina/New-NPM-Packages-Practice#readme",
+  "dependencies": {
+    "balanced-match": "^1.0.0",
+    "brace-expansion": "^1.1.8",
+    "concat-map": "0.0.1",
+    "csv": "^1.1.1",
+    "csv-generate": "^1.0.0",
+    "csv-parse": "^1.2.1",
+    "csv-stringify": "^1.0.4",
+    "glob": "^7.1.2",
+    "inflight": "^1.0.6",
+    "inherits": "^2.0.3",
+    "interpret": "^1.0.3",
+    "lodash.get": "^4.4.2",
+    "minimatch": "^3.0.4",
+    "once": "^1.4.0",
+    "path-is-absolute": "^1.0.1",
+    "path-parse": "^1.0.5",
+    "rechoir": "^0.6.2",
+    "resolve": "^1.4.0",
+    "shelljs": "^0.7.8",
+    "stream-transform": "^0.1.2",
+    "wrappy": "^1.0.2"
+  }
+}
